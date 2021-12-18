@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SwapAndCheck</string>
+    <string name="message">Message</string>
+    <string name="swap_btn">Swap</string>
+    <string name="check_btn">Check</string>
+    <string name="second_string_tv">Second String:</string>
+    <string name="first_string_tv">First String:</string>
+    <string name="message_tv">message_tv</string>
+</resources>
